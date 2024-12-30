@@ -1,0 +1,1 @@
+# Ai-Enhanced-Drone-System-For-Automated-Human-Detection-And-Pay-Load-Deployement-in-Disaster-Scenario
